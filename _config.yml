@@ -1,7 +1,13 @@
-title: Bridget Flanery
+# title: Bridget Flanery
 #logo: /assets/img/headshot.jpg
 #description: text below image
 # theme: jekyll-theme-minimal
 remote_theme: samarsault/texture
 texture:
   style: [black]
+  title: Bridget Flanery
+  tagline: Web developer, Data Analyst
+  date_format: "%b %-d, %Y"
+  social_links:
+    github: good-bean
+    linkedIn: in/bridget-s-flanery
