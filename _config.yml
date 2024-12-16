@@ -3,3 +3,5 @@ title: Bridget Flanery
 #description: text below image
 # theme: jekyll-theme-minimal
 remote_theme: samarsault/texture
+texture:
+  style: [black]
